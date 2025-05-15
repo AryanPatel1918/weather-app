@@ -48,7 +48,8 @@ button:hover {
 }
 
 .card {
-    background: linear-gradient(to bottom, hsl(205, 100%, 69%), hsl(40, 100%, 75%));
+    background: linear-gradient(#232526, #7d8084);
+    color: white;
     padding: 25px;
     border-radius: 5px;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.4);
